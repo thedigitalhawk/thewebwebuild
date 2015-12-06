@@ -39,6 +39,7 @@ header a{
     margin-left: 20px;
     font-weight: 700;
     text-decoration: none;
+    color: #111;
 }
 header a:hover{
     text-decoration: underline;
@@ -76,11 +77,12 @@ footer{
     padding-right: 20px;
 }
 footer h2{
-        width: 90px;
+    width: 62px;
     background: #FFFFFF;
     padding: 10px;
     margin: 0 auto;
     margin-bottom: 20px;
+    font-size: 20px;
 }
 footer p{
     text-align: center;
