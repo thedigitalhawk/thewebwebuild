@@ -109,7 +109,6 @@ font-size:30px;
     vertical-align: top;
     margin-left: -1em;
     margin-left: calc(5% - 1em);
-    min-height: 350px;
     position: absolute;
 }
 
