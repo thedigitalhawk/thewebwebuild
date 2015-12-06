@@ -16,6 +16,7 @@ title: The Web We Build
       <h2>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
       </h2>
+      <p>{{ post.author }}</p>
       </li>
         {{ post.content | strip_html | truncatewords:75}}<br>
 <!--            <a href="{{ site.baseurl }}{{ post.url }}">Read more...</a><br><br>-->
