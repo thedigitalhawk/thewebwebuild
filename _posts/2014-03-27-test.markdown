@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "First Post"
-date:   2014-04-4 23:54:00
+title:  "Lorem ipsum dolor"
+date:   2015-06-12 23:54:00
 categories: blog
+author: Brett Sauers
 ---
 
-This is my first post on my new blog, Nothing really to say here so this is it.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto quia nemo, sapiente, non libero reiciendis a nostrum aliquam. A soluta, ea. Dolorem eveniet voluptates nihil iure quisquam, officiis eius consequatur.
