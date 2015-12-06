@@ -78,10 +78,9 @@ font-size:30px;
 }
 
 .inner{
-    width: 90%;
-    margin: 0 auto;
-    margin-top: 40px;
-        margin-bottom: 90px;
+   width: 100%;
+    height: auto;
+    position: relative;
 }
 
 .posts li {
@@ -93,16 +92,25 @@ font-size:30px;
   font-size: 80%;
 }
 .left{
-  width: 60%;
-  min-height: 100%;
+  width: calc(95% - 404px);
+    min-height: 100%;
+    display: inline-block;
+    margin-left: 5%;
+    margin-top: 40px;
+    margin-bottom: 50px;
 }
 .sidebar{
-  box-sizing:border-box;
-  padding: 20px;
-  width: 20%;
-  float: left;
-  background-color: #eee;
-  height: 100%;
+      box-sizing: border-box;
+    padding: 20px;
+    width: 350px;
+    background-color: #FFF;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: -1em;
+    margin-left: calc(5% - 1em);
+    min-height: 350px;
+    position: absolute;
 }
 
 .main.posthead .post{
