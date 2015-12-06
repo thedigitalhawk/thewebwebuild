@@ -1,0 +1,4 @@
+name: TheDigitalHawk Blog
+markdown: redcarpet
+pygments: true
+baseurl: /blog

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "First Post"
+date:   2014-04-4 23:54:00
+categories: blog
+---
+
+This is my first post on my new blog, Nothing really to say here so this is it.
