@@ -1,12 +1,53 @@
+/*****************************************************************************/
+/*
+/* Common
+/*
+/*****************************************************************************/
+
+/* Global Reset */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%; }
+
+h1 { margin-bottom: 0; }
+p { margin: 0; }
+
+
+
+/*****************************************************************************/
+/*
+/* Posts
+/*
+/*****************************************************************************/
+
 body{
     background: #fff;
     font-family: 'Lato', sans-serif;
     color: #474747;
 }
+header{
+    width: 100%;
+    height: 60px;
+}
+header a{
+    line-height: 60px;
+    font-size: 16px;
+    margin-left: 20px;
+    font-weight: 700;
+    text-decoration: none;
+}
+header a:hover{
+    text-decoration: underline;
+}
 .inner{
     width: 100%;
     max-width: 750px;
     margin: 0 auto;
+    padding-bottom: 100px;
 }
 article{
     width: 100%;
@@ -23,4 +64,25 @@ article .content p{
   font-size:20px;
   line-height:35px;
   color:#525252;
+}
+footer{
+    height: auto;
+    width: 100%;
+    background-color: #222;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+footer h2{
+        width: 90px;
+    background: #FFFFFF;
+    padding: 10px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+footer p{
+    text-align: center;
+    color: #fff;
 }
