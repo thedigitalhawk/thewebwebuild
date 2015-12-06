@@ -154,6 +154,7 @@ padding:5%;
   height: calc(100% - 10%);
         background-image: url('../img/type.jpg');
     background-size: cover;
+    background-position: center;
     box-shadow: inset 0px 0px 0px 8005px rgba(255,255,255,.4);
     -webkit-box-shadow: inset 0px 0px 0px 8005px rgba(255,255,255,.4);
     -moz-box-shadow: inset 0px 0px 0px 8005px rgba(255,255,255,.4);
